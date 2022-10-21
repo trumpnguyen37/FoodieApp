@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable-v24/gradient.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.107" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/button_bg.xml" value="0.113" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/dynamic_rv_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/edit_text_bg.xml" value="0.113" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/res_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/search_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/static_rv_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/static_rv_selected_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/drawable/vie_bg.xml" value="0.2" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/font/montserrat_bold.xml" value="0.1787037037037037" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/aboutus_fragment.xml" value="0.253125" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/activity_dash_board.xml" value="0.34823529411764703" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/activity_introdoctory.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/activity_introductory.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/activity_login.xml" value="0.12556053811659193" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/activity_res_detail.xml" value="0.13432835820895522" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/da.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/dashboard_fragment.xml" value="0.152" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/drawer_menu.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/dynamic_rv_item_layout.xml" value="0.264" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/dynamic_rv_progress_bar.xml" value="0.18541666666666667" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/item_option.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/login_tab_fragment.xml" value="0.19791666666666666" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/my_profile_fragment.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/nearbyres_fragment.xml" value="0.253125" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/settings_fragment.xml" value="0.253125" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/signup_tab_fragment.xml" value="0.176" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/layout/static_rv_item.xml" value="0.25" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1595" />
+        <entry key="..\:/sourceCode/sourceAndroid/AndroidProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.176" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

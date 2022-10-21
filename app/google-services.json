@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737151413253",
+    "project_id": "auth-fc693",
+    "storage_bucket": "auth-fc693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737151413253:android:7a71d9508380abd966806c",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737151413253-5ckovoasbdbqsug091tiq8os2au7abkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKOeWeWKCq1BRZO4nAZnQ4ZQ-54C3WdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737151413253-5ckovoasbdbqsug091tiq8os2au7abkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
